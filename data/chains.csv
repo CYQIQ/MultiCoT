@@ -1,0 +1,27 @@
+,query,chain,answer
+0,How many employees are in each team?,<BEGIN> -> df_dic['df6'].groupby('team').size() -> <END>,"The number of employees in each team is as follows:
+
+- Access Team: 6
+- Atlassian: 3
+- Governance Risk & Control: 5
+- IT Automation: 9
+- IT Compliance: 2
+- IT Finance: 2
+- IT Infrastructure: 1
+- IT Operations: 1
+- IT Service Desk: 18
+- IT Support Infrastructure: 4
+- IT support: 3
+- L1 support: 16
+- NRE: 4
+- Network&Endpoint Security: 6
+- Product Security: 6
+- SOC Team: 7
+- SRE: 13
+- Security Infrastructure: 4
+- Security Operation Center: 3
+- Security Service Desk: 3
+- SysOps: 3
+- Tech & Quality: 20
+
+This completes the request."
