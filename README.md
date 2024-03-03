@@ -33,5 +33,5 @@ For detailed instructions on how to run `MultiCoT`, refer to the `CYQIQ_COT.ipyn
 The `data` directory includes an example dataset comprised of 6 CSV files necessary to run the notebook. To run MultiCoT with your own data, change the data loading logic and the table descriptions in `CYQIQ_COT.ipynb`
 
 ## Acknowledgments
-Big thanks to [@hwchase17](https://github.com/hwchase17) and team [LangChain](https://github.com/langchain-ai) for their amazing guides.
-Big thanks to [@zaturalma2](https://github.com/zaturalma2) for helping put the notebook together.
+- Big thanks to [@hwchase17](https://github.com/hwchase17) and team [LangChain](https://github.com/langchain-ai) for their amazing guides.
+- Big thanks to [@zaturalma2](https://github.com/zaturalma2) for helping put the notebook together.
