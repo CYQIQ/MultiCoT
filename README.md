@@ -3,6 +3,8 @@
 ## Overview
 `MultiCoT` is a repository that demonstrates [Chain-of-Table](https://arxiv.org/abs/2401.04398) reasoning on multiple tables powered by [LangGraph](https://github.com/langchain-ai/langgraph).
 
+Try the hosted demo: https://cyqiq-cot-demo-c27oq5sqda-uc.a.run.app/
+
 ## Installation
 
 Follow these steps to set up `MultiCoT`:
